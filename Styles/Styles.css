@@ -1,0 +1,73 @@
+
+body{
+    background-color: #4D5F5C;
+}
+
+.Logo{
+    position: absolute;
+    left: 2em;
+    top: 2em;
+}
+
+.Menu{
+    position: absolute;
+    top: 14em;
+    left: 30em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.MenuSpain{
+    position: absolute;
+    top: 14em;
+    left: 27em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+table{
+    background-color: #4D5F5C;
+}
+
+.Languages{
+    position: absolute;
+    top:1em;
+    right: 1em;
+
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.GalleryBackery{
+    position: absolute;
+    margin-top: 2em;
+    left: 9em;
+}
+
+.GalleryPastries{
+    position: absolute;
+    margin-top: 2em;
+    left: 16em;
+}
+
+.GalleryPastties{
+    position: absolute;
+    margin-top: 2em;
+    left: 17em;
+}
+
+.Footer{
+    position:fixed;
+    width: 100%;
+    height: 3em;
+    bottom: 0em;
+    background-color: #e2e2e2;
+    font-size: 10px;
+}
